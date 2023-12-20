@@ -1,0 +1,15 @@
+## My React Vite Template.
+
+### Use this template to build new React Vite projects.
+
+### To Clone this repo run this command:
+### npx tiged <David-Maine-Floated>/my-react-vite-template#main <new-project-name>
+
+
+### Next, run these commands to set up NPM: 
+### cd my-react-vite-template
+### npm install
+### npm run dev
+
+## Re-name these to make it your own project:
+###  the title in index.html, and the "name" in package.json.
